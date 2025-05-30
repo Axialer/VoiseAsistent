@@ -1,0 +1,6 @@
+PyQt5
+vosk
+sounddevice
+pyautogui
+pycaw
+comtypes 
